@@ -1,0 +1,13 @@
+11:43:24.624 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4194ms
+11:44:46.478 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4174ms
+11:46:53.137 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4199ms
+11:47:33.555 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5220ms
+11:50:42.220 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4000ms
+11:50:42.257 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.0.v20140526
+11:50:42.266 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@66f18fa{/,null,AVAILABLE}
+11:50:42.275 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@3e12aa8b{HTTP/1.1}{0.0.0.0:8080}
+11:50:42.275 [main] INFO  org.eclipse.jetty.server.Server - Started @4055ms
+11:50:59.499 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4022ms
+11:53:22.812 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4066ms
+11:54:18.697 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4048ms
+11:54:32.022 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4308ms
