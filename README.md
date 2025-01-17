@@ -1,4 +1,9 @@
-# project-catalog
+# Building Microservices with Clojure
+
+Me doing some coding when following this course
+https://www.udemy.com/course/building-microservices-with-clojure/?couponCode=KEEPLEARNING
+
+## project-catalog
 
 Companion repo for _Building Microservices with Clojure: A Practical Introduction to 
 Tooling, Development, and Deployment_ link, from O'Reilly. This course is designed 
